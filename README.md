@@ -25,10 +25,10 @@ A ideia da tarefa é que você construa o html para responder o conteudo de Git 
 
 11 - O que são títulos no HTML?
 
-12 - Qual a diferença entre <h1> e <h6>?
+12 - Qual a diferença entre "<h1>" e "<h6>"?
 
-13 - Para que serve a tag <p>?
+13 - Para que serve a tag "<p>"?
 
 14 - O que é um formulário HTML?
 
-15 - Para que serve a tag <form>?
+15 - Para que serve a tag "<form>"?
