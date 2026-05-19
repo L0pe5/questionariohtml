@@ -3,18 +3,32 @@
 Introdução -> Clone o projeto no seu computador, crie uma branch com o nome "Respostas". 
 A ideia da tarefa é que você construa o html para responder o conteudo de Git e HTML.
 
-O que é um elemento HTML?
-Qual a diferença entre <head> e <body>?
-O que é um atributo HTML?
-Como é feito o comentário em HTML?
-O que é uma tag?
-O que é Git?
-O que é GitHub?
-O que é uma branch?
-O que é commit?
-Para que serve o Git?
-O que são títulos no HTML?
-Qual a diferença entre <h1> e <h6>?
-Para que serve a tag <p>?
-O que é um formulário HTML?
-Para que serve a tag <form>?
+1 - O que é um elemento HTML?
+
+2 - Qual a diferença entre <head> e <body>?
+
+3 - O que é um atributo HTML?
+
+4 - Como é feito o comentário em HTML?
+
+5 - O que é uma tag?
+
+6 - O que é Git?
+
+7 - O que é GitHub?
+
+8 - O que é uma branch?
+
+9 - O que é commit?
+
+10 - Para que serve o Git?
+
+11 - O que são títulos no HTML?
+
+12 - Qual a diferença entre <h1> e <h6>?
+
+13 - Para que serve a tag <p>?
+
+14 - O que é um formulário HTML?
+
+15 - Para que serve a tag <form>?
